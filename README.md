@@ -1,6 +1,6 @@
 Capital Greenspace Project UoE 21-22 
 
-The accompanying HTML file is a copy of the code created for the University of Edinburgh 2021-22 MSc GIS & EO Capital Greenspace Project. My groups focus was on what the value of greenspaces in Edinburgh as carbon sinks in relation to a locations Scottish Index of Multiple Deprivation (SIMD) score. The HTMl code also has embedded a Python GeoJSON script for an interactive map on the website.
+The accompanying HTML file is a copy of the code created for the University of Edinburgh 2021-22 MSc GIS & EO Capital Greenspace Project. My groups focus was on what the value of greenspaces in Edinburgh as carbon sinks in relation to a locations Scottish Index of Multiple Deprivation (SIMD) score. The HTML code also has embedded a Python GeoJSON script for an interactive map on the website.
 
 The aims of the research were:
 •	To understand the spatial pattern of high value carbon greenspaces in Edinburgh, determine data zones which are both too far (1km) from high value greenspaces and are deprived (SIMD below 20% percentile)
